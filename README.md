@@ -7,7 +7,7 @@ Currently, I am serving as the President of the Amazon Web Services Student Buil
 ---
 
 ### 👨‍💻 What I’m up to
-- 🛠️ **Building**: Tact-A-Braille: A Solenoid-Actuated Refreshable Braille E-Reader, a system that integrates a refreshable braille display and an institution-managed educator dashboard.
+- 🛠️ **Building**: Senior-year thesis: a system that integrates a refreshable braille display and an institution-managed dashboard.
 - 🧠 **Learning**: Deepening my knowledge in FastAPI and PostgreSQL.
 - 🤝 **Community**: Working with the executive team of AWS SBG - Haribon for preparation of future events.
 
