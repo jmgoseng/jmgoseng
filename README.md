@@ -44,5 +44,5 @@ Currently, I am serving as the President of the Amazon Web Services Student Buil
 ---
 
 ### 💬 Connect with me!
-- **LinkedIn**: [Jan Michael Goseng](www.linkedin.com/in/jan-michael-goseng-291ab53a0)
+- **LinkedIn**: [Jan Michael Goseng](https://www.linkedin.com/in/jan-michael-goseng-291ab53a0)
 - **Email**: jmcgoseng2023@plm.edu.ph
