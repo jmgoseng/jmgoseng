@@ -44,6 +44,16 @@ Currently, I am serving as the President of the Amazon Web Services Student Buil
 
 ---
 
+### 🗂️ Project Repositories
+- 🛜 [**Sample Network Topology**](https://github.com/jmgoseng/CHR_MOCK_NETWORK_TOPOLOGY)
+- 💾 [**Minimal Operating System (MINIMOS): A TUI-based Operating System**](https://github.com/jmgoseng/MINIMOS_OS)
+- 🗳️ [**Community Assistance and Planning Tool (C.A.P.T.)**](https://github.com/pjestrella/C.A.P.T.-Website)
+- 🐯 [**Little Zookeeper Adventures: An Educational Mobile Game for Alphabet and Animal Learning**](https://github.com/jmgoseng/Little-Zookeeper-Adventures)
+
+_**Note**: The project repositories are set to private by default. Kindly request access to be added as a collaborator._
+
+---
+
 ### 💬 Connect with me!
 - **LinkedIn**: [Jan Michael Goseng](https://www.linkedin.com/in/jan-michael-goseng-291ab53a0)
 - **Email**: gosengjanmichael@gmail.com
