@@ -49,6 +49,7 @@ Currently, I am serving as the President of the Amazon Web Services Student Buil
 - 💾 [**Minimal Operating System (MINIMOS): A TUI-based Operating System**](https://github.com/jmgoseng/MINIMOS_OS)
 - 🗳️ [**Community Assistance and Planning Tool (C.A.P.T.)**](https://github.com/pjestrella/C.A.P.T.-Website)
 - 🐯 [**Little Zookeeper Adventures: An Educational Mobile Game for Alphabet and Animal Learning**](https://github.com/jmgoseng/Little-Zookeeper-Adventures)
+- 👀 [**OptiHelp: Discreet Gesture-based Emergency Trigger System**](https://github.com/AllysonK8/DIP_FINAL_PROJECT/tree/main)
 
 _**Note**: The project repositories are set to private by default. Kindly request access to be added as a collaborator._
 
