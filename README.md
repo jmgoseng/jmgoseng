@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Michael 
+### Hi there! 👋 I'm Michael 
 
 I am a fourth-year Bachelor of Science in Computer Engineering (BSCpE) student at Pamantasan ng Lungsod ng Maynila, specializing in network topologies, backend development, and project management.
 
